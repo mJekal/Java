@@ -1,6 +1,6 @@
 package HW;
 
-// 과제 #01 - 1 변수 범위
+// 과제 #01 - 1 변수 범위(6점)
 
 public class VarRange {
 	public static void main(String[] args) {
